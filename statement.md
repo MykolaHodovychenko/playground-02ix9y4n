@@ -26,3 +26,5 @@ fun main(args: Array<String>) {
     println("Hello, World 3")
 }
 ```
+
+# Kotlin basic 2
